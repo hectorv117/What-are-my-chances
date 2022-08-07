@@ -1,6 +1,10 @@
 # What-are-my-chances (UT Austin External Transfer)
 
-## Naive Bayes Classifier that predicts a students chances of being accepted based on the following criteria:
+## Predict your chances of beind admitted as an external transfer
+
+### How it works
+
+### Naive Bayes Classifier that predicts a students chances of being accepted based on the following criteria:
 
 - GPA
 - College
@@ -8,7 +12,7 @@
 - Residency
 - CAP 
 
-## How it works
+
 
 ### WARNING: The naive bayes classifier is trained using a small amount (800+) of self reported data found on reddit:
 
