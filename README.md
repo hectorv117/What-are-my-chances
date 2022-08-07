@@ -8,6 +8,12 @@
 - Residency
 - CAP 
 
+## How it works
+
+### WARNING: The naive bayes classifier is trained using a small amount (800+) of self reported data found on reddit:
+
+  [a link] (https://www.reddit.com/r/UTAustinAdmissions2/comments/v2gma2/transfer_results_for_2020_and_2021/)
+
 
 ## Check out the Jupyter Notebook for the follwing stats:
 
@@ -32,6 +38,8 @@
 #### Go to the webpage where the flask server is listening
 
   usually 127.0.0.1:5000
+  
+ 
 
   
 
