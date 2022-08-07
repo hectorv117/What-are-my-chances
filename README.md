@@ -19,7 +19,7 @@ Naive Bayes Classifier that predicts a students chances of being accepted based 
 - Least Common Majors
 
 
-## Spin up a simple flask server to input your data
+## Spin up a simple flask app to input your data
 
 #### Make sure all dependencies are installed 
   pip3 install -r requirements.txt
