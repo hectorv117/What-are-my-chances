@@ -14,7 +14,7 @@
 
 
 
-### WARNING: This data was found on reddit don't take this seriously
+### WARNING: This data was found on reddit 
 
   The data are self reported application decision results from 2020 and 2021 fall semesters. 
   The naive bayes classifier may produce wildy innacurate results since the data it was trained on is:
