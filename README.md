@@ -21,6 +21,8 @@
 
 ## Spin up a simple flask app to input your data
 
+![Screenshot](websiteImage.png)
+
 #### Make sure all dependencies are installed 
   pip3 install -r requirements.txt
   
