@@ -25,7 +25,7 @@ Naive Bayes Classifier that predicts a students chances of being accepted based 
   pip3 install -r requirements.txt
   
 #### Start the server
-  python3 ./app.py
+  python3 app.py
   
 #### Go to the webpage where the flask server is listening
 
