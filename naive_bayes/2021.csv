@@ -1,0 +1,445 @@
+﻿Timestamp,Decision,College,Major,GPA,Credit Hours (Please include the exact number),Residency,CAP
+4/6/21 12:21,Admitted,McCombs,Unspecified Business,4,56,Out of State,No
+4/15/21 22:45,Admitted,COFA,Music Composition,3.7,50,In State,No
+5/11/21 21:22,Admitted,COLA,Economics,3.75,59,Out of State,No
+5/11/21 21:26,Admitted,McCombs,Finance,4,95,Out of State,No
+5/11/21 21:32,Admitted,CNS,Neuroscience,4,45,In State,No
+5/12/21 1:35,Admitted,COFA,Music Composition,3.69,54,In State,No
+5/12/21 17:49,Denied,CNS,Astronomy,3.55,16,In State,No
+5/13/21 13:39,Admitted,Information,Informatics,3.86,70,In State,No
+5/13/21 14:27,Admitted,McCombs,Finance,3.96,70,In State,No
+5/24/21 15:28,Admitted,COLA,Health And Society,3.42,32,In State,No
+5/24/21 15:29,Denied,COLA,Health And Society,3,37,In State,No
+5/25/21 18:12,Admitted,CNS,Biology,3.95,63,In State,No
+5/26/21 17:11,Admitted,McCombs,Unspecified Business,4,31,In State,Yes
+5/27/21 20:39,Admitted,COLA,History,3.9,30,In State,Yes
+5/27/21 20:40,Admitted,COLA,Psychology,3.9,33,In State,Yes
+5/27/21 20:40,Admitted,COLA,Sociology,3.9,30,In State,Yes
+5/27/21 20:40,Denied,McCombs,Unspecified Business,3.6,64,In State,No
+5/27/21 20:41,Admitted,COLA,International Relations And Global Studies,4,60,In State,Yes
+5/27/21 20:43,Admitted,COLA,Psychology,3.87,30,In State,Yes
+5/27/21 20:45,Admitted,COLA,Psychology,3.8,81,International,No
+5/27/21 20:47,Admitted,COLA,Government,3.8,31,In State,Yes
+5/27/21 20:47,Denied,McCombs,Unspecified Business,4,65,International,No
+5/27/21 20:59,Admitted,COLA,Psychology,4,45,In State,Yes
+5/27/21 21:06,Admitted,COLA,Psychology,4,32,In State,Yes
+5/27/21 21:11,Admitted,COLA,Psychology,3.8,43,In State,Yes
+5/27/21 21:15,Admitted,COLA,International Relations And Global Studies,4,53,In State,Yes
+5/27/21 21:19,Admitted,COLA,Psychology,3.375,44,In State,Yes
+5/27/21 21:29,Admitted,COLA,Psychology,3.42,31,In State,Yes
+5/27/21 21:32,Admitted,COLA,History,3.9,30,In State,Yes
+5/27/21 21:32,Admitted,COLA,Government,3.76,30,In State,Yes
+5/27/21 21:34,Admitted,COLA,Psychology,3.9,45,In State,Yes
+5/27/21 21:36,Admitted,COLA,Government,3.52,43,In State,Yes
+5/27/21 21:38,Admitted,COLA,Government,3.8,31,In State,Yes
+5/27/21 21:38,Admitted,COLA,Government,4,60,In State,Yes
+5/27/21 21:52,Admitted,COLA,Psychology,4,54,In State,Yes
+5/27/21 22:04,Admitted,COLA,International Relations And Global Studies,4,30,In State,Yes
+5/27/21 22:12,Admitted,COLA,Economics,3.3,32,In State,Yes
+5/27/21 22:22,Admitted,COLA,History,3.9,30,In State,Yes
+5/27/21 22:25,Admitted,COLA,International Relations And Global Studies,3.83,33,In State,Yes
+5/27/21 22:45,Admitted,COLA,International Relations And Global Studies,4,32,In State,Yes
+5/27/21 22:48,Admitted,COLA,Health And Society,4,31,In State,Yes
+5/27/21 22:51,Admitted,COLA,International Relations And Global Studies,4,32,In State,Yes
+5/27/21 22:52,Admitted,COLA,History,3.9,30,In State,Yes
+5/27/21 23:56,Admitted,COLA,Psychology,3.8,32,In State,Yes
+5/28/21 0:19,Admitted,COLA,Psychology,4,35,In State,Yes
+5/28/21 0:35,Admitted,COLA,Psychology,4,30,In State,Yes
+5/28/21 0:51,Admitted,COLA,Sociology,3.9,30,In State,Yes
+5/28/21 1:43,Denied,CNS,Computer Science,3.9,65,International,No
+5/28/21 7:40,Admitted,COLA,International Relations And Global Studies,3.74,33,In State,Yes
+5/28/21 9:48,Admitted,COLA,Psychology,3.9,65,In State,Yes
+5/28/21 9:48,Admitted,COLA,Government,3.9,30,In State,Yes
+5/28/21 10:00,Admitted,COLA,Psychology,4,30,In State,Yes
+5/28/21 10:37,Admitted,COLA,Psychology,4,30,In State,Yes
+5/28/21 10:48,Admitted,COLA,International Relations And Global Studies,3.8,30,In State,Yes
+5/28/21 11:06,Admitted,CNS,Computer Science,3.7,32,In State,No
+5/28/21 15:46,Admitted,COLA,Psychology,3.8,67,International,No
+5/28/21 23:46,Admitted,COLA,Economics,3.8,28,In State,No
+5/29/21 8:16,Admitted,COLA,International Relations And Global Studies,4,30,In State,Yes
+5/31/21 1:30,Admitted,CNS,Biochemistry,4,30,In State,No
+5/31/21 18:19,Admitted,CNS,Biology,4,45,In State,Yes
+5/31/21 18:26,Admitted,Social Work,Government,3.74,53,In State,Yes
+5/31/21 20:38,Admitted,COLA,Psychology,3.78,33,In State,Yes
+5/31/21 21:12,Admitted,COLA,Sociology,3.54,45,In State,Yes
+5/31/21 21:16,Admitted,COLA,Psychology,3.7,30,In State,Yes
+5/31/21 23:31,Admitted,COLA,Psychology,3.28,32,In State,Yes
+5/31/21 23:47,Admitted,CNS,Biochemistry,4,92,In State,Yes
+6/1/21 0:53,Admitted,COFA,Visual Art Studies,3.85,59,In State,No
+6/1/21 6:43,Admitted,COLA,Government,3.9,30,In State,Yes
+6/1/21 8:07,Admitted,COLA,Economics,3.8,65,In State,No
+6/1/21 13:05,Admitted,COLA,Psychology,3.57,32,In State,Yes
+6/1/21 14:51,Admitted,CNS,Biology,3.76,35,In State,Yes
+6/1/21 17:33,Admitted,CNS,Biology,3.76,35,In State,Yes
+6/1/21 20:22,Admitted,COFA,Theatre Studies,4,60,In State,No
+6/2/21 0:19,Denied,COLA,Health And Society,3,37,In State,No
+6/2/21 0:27,Admitted,COFA,Theatre Studies,4,60,In State,No
+6/2/21 9:12,Admitted,CNS,Biology,3.86,33,In State,No
+6/2/21 10:36,Admitted,CNS,Biology,3.87,67,In State,No
+6/2/21 14:05,Admitted,CNS,Psychology,3.84,32,In State,Yes
+6/2/21 14:06,Admitted,COLA,Economics,4,30,In State,Yes
+6/2/21 14:09,Admitted,CNS,Mathematics,3.92,73,In State,No
+6/2/21 14:20,Admitted,CNS,Biology,3.79,63,In State,No
+6/2/21 14:42,Admitted,COLA,Philosophy,3.9,30,In State,Yes
+6/2/21 14:46,Admitted,COLA,Psychology,4,32,In State,Yes
+6/2/21 15:40,Admitted,McCombs,Unspecified Business,3.98,92,International,No
+6/2/21 15:42,Admitted,COLA,Sociology,3.6,31,In State,Yes
+6/2/21 16:57,Admitted,COLA,Linguistics,3.32,30,In State,Yes
+6/2/21 16:58,Admitted,COLA,Linguistics,3.82,30,In State,Yes
+6/2/21 17:21,Admitted,COLA,Human Dimensions Of Organizations,4,31,In State,Yes
+6/2/21 17:28,Admitted,COLA,Psychology,4,47,In State,Yes
+6/2/21 17:32,Admitted,COLA,Psychology,3.9,32,In State,Yes
+6/2/21 18:41,Admitted,Education,Theatre Education,3.9,59,In State,No
+6/2/21 20:07,Admitted,COLA,Psychology,4,32,In State,Yes
+6/2/21 21:42,Admitted,CNS,Biology,4,45,In State,No
+6/2/21 23:31,Admitted,COLA,Sociology,3.9,30,In State,Yes
+6/3/21 8:40,Admitted,COLA,Government,3.8,60,In State,No
+6/3/21 10:18,Admitted,COFA,Design,3.7,72,In State,No
+6/3/21 10:44,Admitted,COLA,Psychology,3.8,32,In State,Yes
+6/3/21 13:07,Admitted,CNS,Biology,4,40,In State,No
+6/5/21 20:05,Admitted,COLA,Psychology,3.96,55,In State,Yes
+6/5/21 20:07,Admitted,CNS,Computer Science,3.8,42,In State,Yes
+6/5/21 23:09,Admitted,CNS,Computer Science,4,40,In State,Yes
+6/8/21 10:25,Admitted,Cockrell,Computer Engineering,4,36,In State,No
+6/8/21 10:26,Admitted,Cockrell,Computer Engineering,4,36,In State,No
+6/8/21 11:23,Admitted,Cockrell,Environmental Engineering,3.86,64,Out of State,No
+6/8/21 11:30,Admitted,Cockrell,Petroleum Engineering,4,71,In State,No
+6/8/21 11:38,Admitted,Geosciences,Geoscience,3.84,64,In State,No
+6/8/21 13:32,Admitted,Geosciences,Environmental Science,3.85,55,In State,No
+6/8/21 14:16,Admitted,Cockrell,Electrical And Computer Engineering,4,39,Out of State,No
+6/8/21 16:26,Admitted,Cockrell,Computational Engineering,3.92,60,In State,No
+6/8/21 17:19,Admitted,Theatre and Dance,Scenic Design,3.55,33,In State,No
+6/8/21 17:19,Admitted,CNS,Public Health,3.67,39,In State,No
+6/8/21 17:27,Admitted,Cockrell,Chemical Engineering,4,44,In State,No
+6/8/21 17:28,Admitted,Moody,Radio-Television-Film,3.88,54,In State,Yes
+6/8/21 17:38,Admitted,Moody,Radio-Television-Film,4,72,In State,No
+6/8/21 17:42,Admitted,Moody,Advertising,3.86,54,In State,No
+6/8/21 17:45,Admitted,Moody,Speech Pathology,4,47,In State,Yes
+6/8/21 18:03,Admitted,Moody,Corporate Communications,4,32,In State,Yes
+6/8/21 18:14,Admitted,Moody,Radio-Television-Film,4,31,In State,No
+6/8/21 18:25,Admitted,Moody,Communication And Leadership,3.92,34,In State,No
+6/8/21 18:26,Admitted,Moody,Interpersonal Communications,3.9,54,In State,No
+6/8/21 18:42,Admitted,Moody,Radio-Television-Film,3.9,26,In State,No
+6/8/21 18:43,Admitted,Social Work,Social Work,3.95,60,In State,No
+6/8/21 18:54,Admitted,Education,Physical Culture And Sports,3.87,58,In State,No
+6/8/21 19:03,Admitted,Moody,Pre-Public Relations,4,28,In State,No
+6/8/21 19:07,Admitted,Moody,Advertising,3.91,48,In State,No
+6/8/21 19:08,Admitted,Moody,Radio-Television-Film,4,61,In State,No
+6/8/21 19:25,Admitted,COLA,Government,4,31,In State,Yes
+6/8/21 19:46,Admitted,Moody,Pre-Public Relations,4,52,In State,No
+6/8/21 19:47,Admitted,Education,Physical Culture And Sports,3.7,62,Out of State,No
+6/8/21 20:01,Denied,COLA,Gender Studies,4,24,In State,No
+6/8/21 20:08,Admitted,Education,Physical Culture And Sports,4,32,In State,No
+6/8/21 20:26,Admitted,Moody,Advertising,4,33,In State,Yes
+6/8/21 21:08,Admitted,CNS,Biology,3.76,34,In State,Yes
+6/8/21 21:08,Admitted,CNS,Biology,4,48,In State,Yes
+6/8/21 21:08,Admitted,COLA,Government,3.71,56,In State,Yes
+6/8/21 21:23,Admitted,CNS,Biology,3.86,32,In State,Yes
+6/8/21 21:25,Admitted,Moody,Corporate Communications,4,32,In State,Yes
+6/8/21 21:37,Admitted,CNS,Biochemistry,3.85,35,In State,Yes
+6/8/21 21:53,Admitted,Moody,Pre-Public Relations,3.89,60,Out of State,No
+6/8/21 22:11,Admitted,Education,Kinesiology,3.74,32,In State,Yes
+6/8/21 22:12,Admitted,Social Work,Social Work,4,31,In State,Yes
+6/8/21 22:16,Admitted,CNS,Biology,3.76,40,In State,Yes
+6/8/21 22:32,Admitted,CNS,Public Health,3.2,43,In State,Yes
+6/8/21 22:35,Admitted,CNS,Public Health,3.84,43,In State,Yes
+6/8/21 23:07,Admitted,Moody,Advertising,4,46,In State,No
+6/8/21 23:11,Admitted,Education,Kinesiology,3.74,32,In State,Yes
+6/9/21 0:56,Admitted,Moody,Radio-Television-Film,3.93,30,In State,Yes
+6/9/21 7:33,Admitted,COFA,Arts And Entertainment Technologies,3.7,30,In State,No
+6/9/21 9:39,Admitted,Moody,Advertising,3.83,30,In State,Yes
+6/9/21 10:06,Denied,McCombs,Finance,4,62,In State,No
+6/9/21 10:51,Admitted,Moody,Radio-Television-Film,3.81,32,In State,Yes
+6/9/21 10:56,Admitted,CNS,Biology,3.86,32,In State,Yes
+6/9/21 11:14,Admitted,COLA,Psychology,3.76,30,In State,Yes
+6/9/21 13:02,Admitted,Education,Behavioral Science And Health Promotion,4,27,In State,No
+6/9/21 13:47,Admitted,Moody,Advertising,4,28,In State,Yes
+6/9/21 14:01,Admitted,COLA,Linguisitcs,3.32,30,In State,Yes
+6/9/21 15:51,Admitted,Education,Exercise Science,3.83,30,In State,Yes
+6/9/21 16:23,Admitted,McCombs,Unspecified Business,4,32,In State,Yes
+6/9/21 18:23,Admitted,McCombs,Management Information Systems,4,36,In State,No
+6/9/21 18:33,Admitted,Moody,Radio-Television-Film,3.9,26,In State,No
+6/9/21 18:50,Admitted,McCombs,Finance,4,44,In State,No
+6/9/21 18:54,Admitted,McCombs,Unspecified Business,4,34,In State,Yes
+6/9/21 19:07,Admitted,McCombs,Finance,4,56,In State,No
+6/9/21 19:15,Admitted,Education,Exercise Science,3.87,31,In State,Yes
+6/9/21 19:24,Admitted,McCombs,Finance,4,57,In State,No
+6/9/21 19:26,Admitted,Education,Kinesiology,3.6,62,In State,Yes
+6/9/21 19:28,Admitted,CNS,Biochemistry,3.5,85,In State,Yes
+6/9/21 19:38,Admitted,McCombs,Unspecified Business,4,49,In State,Yes
+6/9/21 19:44,Admitted,McCombs,Unspecified Business,4,48,In State,No
+6/9/21 19:50,Admitted,Education,Kinesiology,3.6,62,In State,Yes
+6/9/21 19:54,Admitted,McCombs,Unspecified Business,4,32,In State,Yes
+6/9/21 19:58,Admitted,McCombs,Unspecified Business,3.85,33,In State,No
+6/9/21 20:18,Admitted,Education,Exercise Science,3.87,31,In State,Yes
+6/9/21 20:24,Admitted,McCombs,Unspecified Business,4,59,In State,No
+6/9/21 20:30,Denied,McCombs,Business,4,52,In State,No
+6/9/21 20:40,Admitted,McCombs,Finance,4,60,In State,No
+6/9/21 20:45,Admitted,McCombs,Unspecified Business,4,29,In State,No
+6/9/21 21:14,Admitted,Moody,Public Relations,3.77,32,In State,Yes
+6/9/21 22:06,Admitted,McCombs,Unspecified Business,3.91,42,In State,No
+6/9/21 22:20,Admitted,Education,Exercise Science,3.87,31,In State,Yes
+6/9/21 23:38,Admitted,CNS,Medical Laboratory Science,3.9,39,In State,Yes
+6/10/21 8:22,Denied,CNS,Biochemistry,4,38,In State,No
+6/10/21 11:26,Admitted,Cockrell,Chemical Engineering,4,203,In State,No
+6/10/21 11:45,Admitted,COFA,Design,4,33,In State,No
+6/10/21 13:32,Admitted,CNS,Biology,4,48,In State,Yes
+6/11/21 20:55,Admitted,CNS,Biology,3.76,34,In State,Yes
+6/11/21 21:25,Admitted,McCombs,Unspecified Business,4,32,In State,Yes
+6/11/21 22:01,Denied,Cockrell,Aerospace Engineering,4,45,In State,No
+6/12/21 10:36,Admitted,COFA,Arts And Entertainment Technologies,3.78,45,In State,No
+6/12/21 11:12,Admitted,COFA,Arts And Entertainment Technologies,3.9,60,In State,No
+6/12/21 19:06,Admitted,McCombs,Unspecified Business,4,68,In State,No
+6/12/21 20:34,Admitted,COLA,International Relations And Global Studies,4,45,In State,No
+6/12/21 21:15,Admitted,CNS,Computer Science,3.27,43,In State,Yes
+6/12/21 22:02,Admitted,Education,Youth And Community Studies,3.72,83,In State,No
+6/12/21 22:28,Admitted,CNS,Mathematics,4,56,In State,No
+6/12/21 22:31,Denied,Moody,Radio-Television-Film,3.66,55,In State,No
+6/12/21 22:38,Admitted,CNS,Biology,4,47,In State,No
+6/12/21 22:40,Admitted,CNS,Biology,4,34,In State,No
+6/12/21 22:43,Admitted,CNS,Biology,4,41,In State,No
+6/12/21 22:57,Admitted,CNS,Neuroscience,4,30,In State,No
+6/12/21 22:57,Admitted,CNS,Biology,4,28,In State,No
+6/12/21 23:04,Admitted,CNS,Physics,4,54,In State,No
+6/12/21 23:47,Admitted,Moody,Communication And Leadership,3.77,74,In State,No
+6/12/21 23:47,Admitted,CNS,Biology,4,68,In State,No
+6/13/21 0:24,Admitted,CNS,Biology,4,40,In State,No
+6/13/21 0:47,Admitted,COLA,Economics,3.9,37,In State,No
+6/13/21 2:01,Admitted,CNS,Physics,4,30,In State,No
+6/13/21 12:11,Admitted,COLA,Economics,4,45,In State,No
+6/13/21 15:45,Admitted,CNS,Biology,4,25,In State,Yes
+6/13/21 19:47,Admitted,Moody,Public Relations,3.8,54,In State,No
+6/13/21 21:59,Admitted,COFA,Arts And Entertainment Technologies,3.8,30,In State,Yes
+6/14/21 8:31,Admitted,Moody,Radio-Television-Film,3.88,54,In State,Yes
+6/14/21 18:19,Admitted,Education,Applied Learning And Development,3.78,74,In State,No
+6/14/21 18:23,Denied,CNS,Public Health,3.45,52,In State,No
+6/14/21 18:24,Denied,COLA,Government,3.2,29,In State,No
+6/14/21 18:29,Admitted,Education,Youth And Community Studies,3.7,67,In State,No
+6/14/21 18:29,Admitted,Education,Special Education,3.84,31,In State,No
+6/14/21 18:37,Denied,Moody,Radio-Television-Film,3.3,27,In State,No
+6/14/21 18:39,Denied,COLA,Philosophy,3.35,42,In State,No
+6/14/21 18:45,Admitted,Education,Applied Learning And Development,3.67,56,In State,No
+6/14/21 19:13,Admitted,CNS,Computer Science,4,59,In State,No
+6/14/21 19:14,Admitted,Education,Applied Learning And Development,3.841,25,In State,No
+6/14/21 19:31,Denied,COFA,Design,3.1,62,In State,No
+6/14/21 19:33,Admitted,Education,Applied Movement Science,3.6,55,In State,No
+6/14/21 19:36,Admitted,CNS,Mathematics,3.9,150,In State,No
+6/14/21 20:43,Admitted,Education,Applied Learning And Development,3.75,32,In State,No
+6/14/21 21:07,Denied,Education,Exercise Science,3.67,32,In State,No
+6/14/21 21:29,Admitted,Education,Physical Culture And Sport,3.7,60,In State,No
+6/14/21 21:37,Admitted,CNS,Neuroscience,3.96,44,Out of State,No
+6/14/21 22:29,Admitted,Education,Applied Learning And Development,3.841,25,In State,No
+6/14/21 23:14,Admitted,CNS,Mathematics,3.92,44,In State,No
+6/15/21 8:54,Denied,COLA,Government,3.2,29,In State,No
+6/15/21 15:20,Admitted,COLA,Economics,4,46,In State,No
+6/15/21 15:35,Admitted,CNS,Computer Science,4,57,In State,No
+6/15/21 16:43,Admitted,Moody,Journalism,3.96,29,Out of State,No
+6/15/21 18:12,Admitted,COLA,Philosophy,4,47,In State,No
+6/15/21 18:12,Admitted,COLA,Government,4,34,In State,No
+6/15/21 18:13,Admitted,COLA,Psychology,4,28,In State,No
+6/15/21 18:19,Admitted,COLA,Government,4,31,In State,No
+6/15/21 18:19,Admitted,COLA,Psychology,4,30,In State,No
+6/15/21 18:21,Admitted,COLA,Economics,4,38,In State,No
+6/15/21 18:25,Admitted,COLA,English,4,80,In State,No
+6/15/21 18:40,Admitted,COLA,History,4,28,In State,No
+6/15/21 18:40,Admitted,COLA,Psychology,4,29,In State,No
+6/15/21 18:46,Admitted,COLA,Sociology,4,32,In State,No
+6/15/21 18:49,Admitted,Social Work,Social Work,3.8,41,In State,No
+6/15/21 18:54,Admitted,Education,Exercise Science,3.74,25,In State,No
+6/15/21 19:00,Admitted,Education,Exercise Science,3.74,25,In State,No
+6/15/21 19:06,Admitted,Education,Applied Movement Science,3.77,53,Out of State,No
+6/15/21 19:15,Admitted,COLA,Anthropology,4,45,In State,No
+6/15/21 19:37,Admitted,COLA,Government,4,57,Out of State,No
+6/15/21 19:37,Admitted,COLA,Journalism,3.74,50,In State,No
+6/15/21 19:37,Admitted,Moody,Advertising,3.6,36,In State,No
+6/15/21 19:38,Admitted,Moody,Communication And Leadership,4,47,In State,No
+6/15/21 19:38,Admitted,Education,Exercise Science,3.51,47,In State,No
+6/15/21 19:43,Admitted,Social Work,Social Work,3.51,70,In State,No
+6/15/21 19:50,Admitted,Moody,Advertising,3.83,56,In State,No
+6/15/21 19:52,Admitted,COLA,Psychology,4,64,In State,No
+6/15/21 19:57,Admitted,Moody,Speech Pathology,3.71,71,In State,No
+6/15/21 20:08,Admitted,COLA,Psychology,4,29,In State,No
+6/15/21 20:58,Admitted,Moody,Radio-Television-Film,3.93,30,In State,Yes
+6/15/21 21:29,Admitted,COLA,Economics,3.92,30,In State,No
+6/15/21 21:38,Admitted,COLA,Philosophy,4,27,In State,No
+6/15/21 21:42,Admitted,Moody,Corporate Communications,3.91,44,In State,No
+6/15/21 22:50,Admitted,Education,Exercise Science,3.75,40,In State,No
+6/15/21 22:55,Admitted,COLA,European Studies,4,28,In State,No
+6/15/21 23:14,Admitted,Moody,Advertising,3.9,32,In State,Yes
+6/15/21 23:18,Admitted,COLA,Psychology,4,64,In State,No
+6/15/21 23:19,Admitted,Education,Exercise Science,3.75,40,In State,No
+6/15/21 23:32,Admitted,Moody,Advertising,3.76,56,Out of State,No
+6/16/21 0:04,Admitted,COLA,Economics,4,48,In State,Yes
+6/16/21 0:09,Admitted,CNS,Public Health,3.92,36,In State,No
+6/16/21 0:25,Admitted,Social Work,Social Work,4,31,In State,No
+6/16/21 0:45,Admitted,CNS,Biochemistry,3.8,73,In State,No
+6/16/21 0:46,Admitted,Moody,Advertising,3.88,73,In State,No
+6/16/21 1:01,Admitted,CNS,Public Health,4,47,In State,No
+6/16/21 2:59,Admitted,CNS,Mathematics,4,27,Out of State,No
+6/16/21 7:46,Admitted,CNS,Neuroscience,3.76,46,In State,No
+6/16/21 10:16,Admitted,CNS,Physics,3.8,52,In State,No
+6/16/21 10:48,Admitted,Moody,Radio-Television-Film,3.89,60,In State,No
+6/16/21 13:28,Admitted,Moody,Corporate Communications,3.86,74,In State,No
+6/16/21 17:42,Admitted,COLA,English,4,80,In State,No
+6/16/21 18:06,Denied,CNS,Computer Science,3.75,60,In State,No
+6/16/21 18:06,Denied,CNS,Computer Science,3.94,38,In State,No
+6/16/21 18:06,Denied,CNS,Medical Laboratory Science,3.8,61,In State,No
+6/16/21 18:06,Admitted,Cockrell,International Relations And Global Studies,3.76,56,In State,No
+6/16/21 18:06,Denied,CNS,Computer Science,3.88,32,In State,No
+6/16/21 18:06,Denied,COLA,Psychology,3.96,65,Out of State,No
+6/16/21 18:06,Denied,COLA,Economics,3.84,26,In State,No
+6/16/21 18:06,Denied,Cockrell,Mechanical Engineering,3.76,40,In State,No
+6/16/21 18:06,Denied,Moody,Radio-Television-Film,3.67,27,In State,No
+6/16/21 18:07,Denied,Cockrell,Chemical Engineering,3.82,58,In State,No
+6/16/21 18:07,Denied,COLA,Health And Society,3.866,30,In State,No
+6/16/21 18:07,Denied,McCombs,Unspecified Business,4,41,In State,No
+6/16/21 18:07,Denied,CNS,Computer Science,4,32,In State,No
+6/16/21 18:07,Denied,Moody,Communication And Leadership,3.8,36,In State,No
+6/16/21 18:07,Denied,McCombs,Unspecified Business,3.7,70,In State,No
+6/16/21 18:07,Denied,CNS,Computer Science,3.92,60,In State,No
+6/16/21 18:07,Admitted,COLA,History,3.9,57,In State,No
+6/16/21 18:07,Denied,CNS,Mathematics,3.9,30,In State,No
+6/16/21 18:07,Denied,COLA,Economics,3.9,32,In State,No
+6/16/21 18:07,Denied,CNS,Biology,4,31,In State,No
+6/16/21 18:08,Denied,CNS,Computer Science,4,32,In State,No
+6/16/21 18:08,Denied,CNS,Computer Science,4,47,In State,No
+6/16/21 18:08,Denied,McCombs,Unspecified Business,3.97,40,In State,No
+6/16/21 18:09,Denied,Cockrell,Biomedical Engineering,4,36,In State,No
+6/16/21 18:10,Admitted,COLA,Government,3.895,60,Out of State,No
+6/16/21 18:10,Denied,COFA,Arts And Entertainment Technologies,3.6,36,In State,No
+6/16/21 18:10,Denied,CNS,Computer Science,3.84,106,In State,No
+6/16/21 18:10,Denied,COLA,Psychology,3.5,60,In State,No
+6/16/21 18:10,Denied,COLA,Economics,3.9,32,In State,No
+6/16/21 18:12,Denied,Cockrell,Mechanical Engineering,3.92,38,In State,No
+6/16/21 18:12,Denied,CNS,Computer Science,3.96,59,In State,No
+6/16/21 18:12,Denied,CNS,Computer Science,4,38,Out of State,No
+6/16/21 18:14,Denied,COLA,Psychology,3.92,33,In State,No
+6/16/21 18:14,Denied,Cockrell,Civil Engineering,3.81,62,In State,No
+6/16/21 18:15,Denied,CNS,Physics,3.74,109,In State,No
+6/16/21 18:17,Admitted,Cockrell,Electrical Engineering,3.95,70,In State,No
+6/16/21 18:17,Admitted,COLA,History,3.9,80,In State,No
+6/16/21 18:18,Admitted,Cockrell,Biomedical Engineering,4,75,In State,No
+6/16/21 18:18,Denied,Cockrell,Mechanical Engineering,3.98,132,In State,No
+6/16/21 18:19,Admitted,COLA,Health & Society,3.78,42,In State,No
+6/16/21 18:20,Denied,CNS,Biology,3.89,31,In State,No
+6/16/21 18:20,Admitted,COLA,International Relations And Global Studies,4,66,In State,No
+6/16/21 18:20,Admitted,COLA,Government,3.9,45,In State,No
+6/16/21 18:20,Admitted,COLA,Economics,4,45,In State,No
+6/16/21 18:21,Denied,CNS,Nutrition,3.45,39,In State,No
+6/16/21 18:21,Admitted,COLA,History,3.89,30,In State,No
+6/16/21 18:21,Admitted,COLA,Sustainability Studies,3.94,58,In State,No
+6/16/21 18:22,Denied,COLA,Psychology,3.74,31,In State,No
+6/16/21 18:22,Admitted,COLA,Government,3.6,44,In State,No
+6/16/21 18:23,Admitted,Cockrell,Civil Engineering,3.87,69,In State,No
+6/16/21 18:26,Admitted,Moody,Journalism,3.56,80,In State,No
+6/16/21 18:26,Admitted,COLA,Psychology,3.855,48,In State,No
+6/16/21 18:27,Denied,Cockrell,Mechanical Engineering,3.66,56,In State,No
+6/16/21 18:27,Denied,Cockrell,Chemical Engineering,3.77,61,In State,No
+6/16/21 18:29,Denied,Moody,Journalism,3.66,33,In State,No
+6/16/21 18:30,Admitted,COLA,Government,3.83,45,In State,No
+6/16/21 18:30,Denied,McCombs,Unspecified Business,3.94,52,Out of State,No
+6/16/21 18:30,Denied,Cockrell,Mechanical Engineering,3.7,62,In State,No
+6/16/21 18:34,Denied,McCombs,Unspecified Business,3.96,52,In State,No
+6/16/21 18:34,Admitted,COLA,Government,4,42,In State,No
+6/16/21 18:36,Denied,Nursing,Nursing,3.86,86,In State,No
+6/16/21 18:36,Admitted,COLA,International Relations And Global Studies,3.65,69,In State,No
+6/16/21 18:37,Denied,COLA,Economics,3.8,41,In State,No
+6/16/21 18:37,Denied,COLA,Sociology,3.3,70,In State,No
+6/16/21 18:37,Denied,McCombs,Unspecified Business,4,32,In State,No
+6/16/21 18:38,Denied,Moody,Radio-Television-Film,3.45,41,In State,No
+6/16/21 18:42,Admitted,COLA,International Relations And Global Studies,3.86,29,In State,No
+6/16/21 18:43,Admitted,COLA,Sustainability Studies,3.81,59,In State,No
+6/16/21 18:43,Denied,COFA,Arts And Entertainment Technologies,3.6,60,In State,No
+6/16/21 18:46,Denied,McCombs,Management Information Systems,3.6,57,In State,No
+6/16/21 18:46,Denied,COLA,Economics,3.44,29,In State,No
+6/16/21 18:48,Admitted,COLA,Government,3.83,45,In State,No
+6/16/21 18:49,Admitted,Cockrell,Aerospace Engineering,3.91,54,In State,No
+6/16/21 18:50,Denied,COFA,Studio Art,4,32,In State,No
+6/16/21 18:54,Denied,CNS,Computer Science,3.891,57,In State,No
+6/16/21 18:55,Denied,COLA,History,3.9,24,In State,No
+6/16/21 18:57,Denied,COLA,Psychology,3.92,33,In State,No
+6/16/21 18:58,Admitted,COLA,International Relations And Global Studies,4,66,In State,No
+6/16/21 18:59,Admitted,COLA,English,3.93,48,In State,No
+6/16/21 19:00,Denied,McCombs,Unspecified Business,4,65,In State,No
+6/16/21 19:01,Admitted,COLA,English,3.93,48,In State,No
+6/16/21 19:01,Admitted,COLA,Government,3.6,44,In State,No
+6/16/21 19:02,Admitted,COLA,Government,4,42,In State,No
+6/16/21 19:03,Denied,Nursing,Nursing,4,54,Out of State,No
+6/16/21 19:03,Denied,COLA,Psychology,3.5,49,In State,No
+6/16/21 19:03,Admitted,Cockrell,Electrical Engineering,3.94,55,In State,No
+6/16/21 19:08,Admitted,COLA,English,3.77,45,In State,No
+6/16/21 19:09,Admitted,COLA,English,3.79,70,In State,No
+6/16/21 19:10,Admitted,COLA,Political Science,3.52,60,In State,No
+6/16/21 19:18,Admitted,COLA,Sustainability Studies,3.94,58,In State,No
+6/16/21 19:18,Admitted,COLA,Government,3.87,34,In State,No
+6/16/21 19:18,Denied,Cockrell,Aerospace Engineering,3.75,34,In State,No
+6/16/21 19:20,Denied,Moody,Radio-Television-Film,3.8,34,In State,No
+6/16/21 19:20,Admitted,COLA,Spanish,3.6,96,Out of State,No
+6/16/21 19:24,Denied,COLA,Economics,3.66,36,In State,No
+6/16/21 19:25,Denied,CNS,Textile And Apparel,4,25,In State,No
+6/16/21 19:28,Denied,CNS,Biochemistry,3.7,62,In State,No
+6/16/21 19:30,Denied,McCombs,Unspecified Business,3.96,52,In State,No
+6/16/21 19:44,Denied,COLA,Economics,3.81,65,In State,No
+6/16/21 19:50,Denied,CNS,Computer Science,3.9,79,In State,No
+6/16/21 19:52,Denied,CNS,Biology,3.7,32,In State,No
+6/16/21 19:54,Denied,COLA,Psychology,3.55,47,In State,No
+6/16/21 20:00,Admitted,COLA,Government,4,57,Out of State,No
+6/16/21 20:02,Denied,McCombs,Unspecified Business,3.85,47,In State,No
+6/16/21 20:04,Admitted,COLA,Sociology,3.87,73,In State,No
+6/16/21 20:09,Denied,CNS,Computer Science,3.82,78,In State,No
+6/16/21 20:13,Denied,CNS,Mathematics,3.7,50,In State,No
+6/16/21 20:20,Denied,COLA,Psychology,3.86,29,In State,No
+6/16/21 20:25,Denied,Cockrell,Chemical Engineering,4,66,In State,No
+6/16/21 20:32,Denied,Cockrell,Aerospace Engineering,3.81,34,In State,No
+6/16/21 20:48,Admitted,COLA,Government,4,42,In State,No
+6/16/21 20:48,Admitted,Cockrell,Architectural Engineering,4,63,In State,No
+6/16/21 20:55,Denied,CNS,Computer Science,3.9,45,In State,No
+6/16/21 21:14,Denied,McCombs,Unspecified Business,3.83,45,In State,No
+6/16/21 21:18,Admitted,COLA,Philosophy,3.89,41,Out of State,No
+6/16/21 21:18,Admitted,Cockrell,Electrical Engineering,3.92,26,In State,No
+6/16/21 21:25,Admitted,Cockrell,Chemical Engineering,3.93,43,Out of State,No
+6/16/21 21:27,Denied,McCombs,Unspecified Business,3.83,45,In State,No
+6/16/21 21:31,Admitted,Cockrell,Electrical And Computer Engineering,3.89,45,In State,No
+6/16/21 21:37,Denied,Cockrell,Civil Engineering,3.53,70,Out of State,No
+6/16/21 22:08,Denied,CNS,Computer Science,3.9,69,In State,No
+6/16/21 22:10,Denied,Nursing,Nursing,4,54,Out of State,No
+6/16/21 22:15,Admitted,COLA,Health And Society,4,36,In State,No
+6/16/21 22:17,Denied,COLA,Psychology,3.8,40,In State,No
+6/16/21 22:58,Denied,Nursing,Nursing,3.9,33,In State,No
+6/16/21 23:06,Admitted,COLA,Government,3.9,40,In State,No
+6/16/21 23:08,Denied,McCombs,Accounting,4,88,In State,No
+6/17/21 0:53,Admitted,COLA,Philosophy,3.89,41,Out of State,No
+6/17/21 1:04,Denied,CNS,Public Health,3.8,30,In State,No
+6/17/21 2:23,Admitted,Cockrell,Mechanical Engineering,3.8,30,Out of State,No
+6/17/21 4:25,Admitted,Moody,Public Relations,4,30,In State,No
+6/17/21 4:36,Admitted,Moody,Speech Pathology,3.71,71,In State,No
+6/17/21 6:44,Admitted,COLA,Health And Society,3.78,42,In State,No
+6/17/21 7:49,Admitted,COLA,Sustainability Studies,3.94,58,In State,No
+6/17/21 9:43,Admitted,COLA,Urban Studies,3.8,66,In State,No
+6/17/21 10:52,Admitted,COLA,English,3.79,70,In State,No
+6/17/21 10:53,Denied,Cockrell,Electrical And Computer Engineering,4,42,In State,Yes
+6/17/21 15:28,Denied,McCombs,Finance,4,54,In State,No
+6/17/21 15:52,Denied,CNS,Computer Science,4,32,In State,No
+6/17/21 19:48,Denied,CNS,Computer Science,4,38,In State,No
+6/17/21 23:44,Denied,COLA,Economics,3.97,61,In State,No
+6/18/21 1:08,Denied,Cockrell,Biomedical Engineering,3.89,84,In State,Yes
+6/18/21 1:09,Admitted,COLA,Economics,3.89,84,In State,Yes
+6/18/21 1:18,Denied,McCombs,Business,3.94,16,In State,No
+6/18/21 15:20,Admitted,COLA,English,3.79,70,In State,No
+6/19/21 23:45,Denied,Cockrell,Civil Engineering,3.81,62,In State,No
+6/20/21 22:38,Admitted,Moody,Communication Sciences And Disorders,3.4,44,Out of State,No
+6/21/21 22:28,Denied,McCombs,Accounting,4,88,In State,No
+6/22/21 17:16,Admitted,COLA,International Relations And Global Studies,3.33,32,In State,No
+6/24/21 16:41,Admitted,COLA,International Relations And Global Studies,3.83,33,In State,Yes
+6/28/21 13:58,Denied,COLA,Biology,4,25,In State,No
+6/28/21 14:41,Admitted,COLA,Economics,3.97,61,In State,No
+6/28/21 15:00,Admitted,CNS,Mathematics,3.93,32,In State,No
+6/28/21 15:05,Denied,CNS,Public Health,3.7,40,In State,No
+6/28/21 15:47,Admitted,COLA,Economics,3.97,61,In State,No
+7/1/21 12:53,Denied,CNS,Computer Science,3.81,60,In State,No
+7/15/21 19:27,Denied,Cockrell,Mechanical Engineering,3.93,44,In State,No
+7/22/21 20:17,Admitted,Nursing,Nursing,3.86,86,In State,No
+8/4/21 20:43,Admitted,McCombs,Unspecified Business,3.89,61,In State,No
+8/6/21 9:57,Admitted,Moody,Corporate Communications,4,32,In State,Yes
+8/18/21 23:24,Admitted,Moody,Advertising,4,33,In State,Yes
+8/20/21 2:14,Admitted,Information,Informatics,3.7,69,In State,No

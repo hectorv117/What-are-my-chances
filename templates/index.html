@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What are my chances</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/styles.css" />
+
+</head>
+
+<body>
+
+    <div class="login-box">
+        <form action="/" id="Student" method="post">
+            <h2>What Are My Chances</h2>
+
+            <div class="mb-3">
+                <select name="school" class="form-select" aria-label="Default select example">
+                    <option selected>School</option>
+                    <option value="1">COLA</option>
+                    <option value="2">CNS</option>
+                    <option value="3">Moody</option>
+                    <option value="4">McCombs</option>
+                    <option value="5">Cockrell</option>
+                    <option value="6">Education</option>
+                    <option value="7">COFA</option>
+                    <option value="8">Social Work</option>
+                    <option value="9">Nursing</option>
+                    <option value="10">Geosciences</option>
+                    <option value="11">Information</option>
+                    <option value="12">Architecture</option>
+                    <option value="13">Theatre and Dance</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+
+                <select name="residency" class="form-select" aria-label="Default select example" form="Student">
+                    <option selected>Residency</option>
+                    <option value="1">In State</option>
+                    <option value="0">Out of State/International</option>
+                </select>
+
+            </div>
+
+
+            <div class="mb-3">
+
+                <select name="cap" class="form-select" aria-label="Default select example" form="Student">
+                    <option selected>CAP</option>
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+
+            </div>
+
+
+
+            <div class="user-box">
+                <input type="text" name="gpa" required="">
+                <label>GPA</label>
+            </div>
+            <div class="user-box">
+                <input type="text" name="hours" required="">
+                <label>Credit Hours</label>
+            </div>
+
+
+            <a href="#" onclick="myFunction()">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Submit
+            </a>
+        </form>
+    </div>
+
+
+    <script>
+        function myFunction() {
+            document.getElementById("Student").submit();
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
