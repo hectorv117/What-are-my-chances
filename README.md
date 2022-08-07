@@ -14,7 +14,15 @@
 
 
 
-### WARNING: The naive bayes classifier is trained using a small amount (800+) of self reported data found on reddit:
+### WARNING: This data was found on reddit don't take this seriously
+
+  The data are self reported application decision results from 2020 and 2021 fall semesters. 
+  The naive bayes classifier may produce wildy innacurate results since the data it was trained on is:
+  - very small (800+)
+  - highly skewed
+    Most people who filled out this form were admitted which leads to an artificially high acceptance rate
+  
+  
 
   https://www.reddit.com/r/UTAustinAdmissions2/comments/v2gma2/transfer_results_for_2020_and_2021/
 
