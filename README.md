@@ -20,7 +20,7 @@
   The naive bayes classifier may produce wildy innacurate results since the data it was trained on is:
   - very small (800+)
   - highly skewed
-    Most people who filled out this form were admitted which leads to an artificially high acceptance rate
+   - Most people who filled out this form were admitted which lead to an artificially high acceptance rate
   
   
 
