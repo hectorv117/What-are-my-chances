@@ -47,7 +47,7 @@
 #### Start the server
   python3 app.py
   
-#### Go to the webpage where the flask server is listening
+#### Paste URL in browser
 
   usually 127.0.0.1:5000
   
