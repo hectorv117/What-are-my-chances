@@ -1,6 +1,6 @@
 # What-are-my-chances (UT Austin External Transfer)
 
-## Predict your chances of beind admitted as an external transfer
+## Predict your chances of being admitted as an external transfer
 
 ### How it works
 
