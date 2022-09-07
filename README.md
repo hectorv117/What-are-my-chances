@@ -17,10 +17,10 @@
 ### WARNING: This data was found on reddit 
 
   The data are self reported application decision results from 2020 and 2021 fall semesters. 
-  The naive bayes classifier may produce wildly innacurate results since the data it was trained on is:
+  The naive bayes classifier may produce wildly innacurate results since it was trained on data that is:
   - very small (800+)
   - highly skewed
-  - Has an inflated acceptance rate 
+  - has an inflated acceptance rate 
   
   
 
